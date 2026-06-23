@@ -8,12 +8,6 @@ Built to demonstrate the full quant analytics workflow: not just the output deck
 
 ---
 
-## Live demo
-
-[leilistiic.github.io/quant-survey-pipeline](https://leilistiic.github.io/quant-survey-pipeline)
-
----
-
 ## What this covers
 
 The tool is structured as a five-stage pipeline — each tab is one step in the analysis workflow.
