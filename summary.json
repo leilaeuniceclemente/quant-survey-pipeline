@@ -1,0 +1,615 @@
+{
+  "total_n": 306,
+  "aware_n": 206,
+  "aware_pct": 67.3,
+  "trial_n": 41,
+  "trial_pct": 19.9,
+  "repeat_n": 12,
+  "repeat_pct": 29.3,
+  "funnel_by_bumo": {
+    "Functional / Anti-acne": {
+      "total": 64,
+      "aware": 48,
+      "aware_pct": 75.0,
+      "trial": 11,
+      "trial_pct": 22.9,
+      "repeat": 4,
+      "repeat_pct": 36.4
+    },
+    "Brightening / Whitening": {
+      "total": 95,
+      "aware": 70,
+      "aware_pct": 73.7,
+      "trial": 25,
+      "trial_pct": 35.7,
+      "repeat": 8,
+      "repeat_pct": 32.0
+    },
+    "Anti-aging / Moisture": {
+      "total": 62,
+      "aware": 32,
+      "aware_pct": 51.6,
+      "trial": 1,
+      "trial_pct": 3.1,
+      "repeat": 0,
+      "repeat_pct": 0.0
+    },
+    "Multi-benefit / Other": {
+      "total": 85,
+      "aware": 56,
+      "aware_pct": 65.9,
+      "trial": 4,
+      "trial_pct": 7.1,
+      "repeat": 0,
+      "repeat_pct": 0.0
+    }
+  },
+  "awareness_channels": [
+    [
+      "TV ad",
+      68
+    ],
+    [
+      "Supermarket display",
+      55
+    ],
+    [
+      "Drugstore display",
+      20
+    ],
+    [
+      "TikTok",
+      16
+    ],
+    [
+      "Facebook",
+      16
+    ],
+    [
+      "Beauty influencer",
+      13
+    ],
+    [
+      "Family / Friends",
+      7
+    ],
+    [
+      "YouTube",
+      6
+    ],
+    [
+      "Radio",
+      3
+    ],
+    [
+      "Online shopping site",
+      2
+    ]
+  ],
+  "regional_channels": {
+    "Luzon": [
+      [
+        "TV ad",
+        30
+      ],
+      [
+        "Supermarket display",
+        26
+      ],
+      [
+        "Facebook",
+        7
+      ],
+      [
+        "Drugstore display",
+        6
+      ],
+      [
+        "TikTok",
+        6
+      ],
+      [
+        "YouTube",
+        5
+      ]
+    ],
+    "Visayas": [
+      [
+        "TV ad",
+        20
+      ],
+      [
+        "Supermarket display",
+        13
+      ],
+      [
+        "Drugstore display",
+        7
+      ],
+      [
+        "Facebook",
+        4
+      ],
+      [
+        "TikTok",
+        3
+      ],
+      [
+        "Beauty influencer",
+        3
+      ]
+    ],
+    "Mindanao": [
+      [
+        "TV ad",
+        18
+      ],
+      [
+        "Supermarket display",
+        16
+      ],
+      [
+        "Drugstore display",
+        7
+      ],
+      [
+        "TikTok",
+        7
+      ],
+      [
+        "Beauty influencer",
+        5
+      ],
+      [
+        "Facebook",
+        5
+      ]
+    ]
+  },
+  "benefits_by_bumo": {
+    "Functional / Anti-acne": {
+      "Controls excess oil": 81.2,
+      "Prevents breakouts": 71.9,
+      "Keeps skin hydrated": 57.8,
+      "Gentle / non-irritating": 39.1,
+      "Deep cleansing": 18.8
+    },
+    "Brightening / Whitening": {
+      "Reduces dark spots & hyperpigmentation": 83.2,
+      "Brightens / evens skin tone": 82.1,
+      "Keeps skin hydrated": 54.7,
+      "Controls excess oil": 21.1,
+      "Gentle / non-irritating": 18.9
+    },
+    "Anti-aging / Moisture": {
+      "Keeps skin hydrated": 91.9,
+      "Gentle / non-irritating": 53.2,
+      "Brightens / evens skin tone": 35.5,
+      "Reduces dark spots & hyperpigmentation": 29.0,
+      "Controls excess oil": 24.2
+    },
+    "Multi-benefit / Other": {
+      "Keeps skin hydrated": 48.2,
+      "Controls excess oil": 47.1,
+      "Reduces dark spots & hyperpigmentation": 45.9,
+      "Brightens / evens skin tone": 42.4,
+      "Gentle / non-irritating": 27.1
+    }
+  },
+  "trial_drivers": [
+    [
+      "Liked the product texture or scent",
+      21,
+      51.2
+    ],
+    [
+      "Liked price for perceived benefit",
+      18,
+      43.9
+    ],
+    [
+      "Product addresses my skin needs",
+      18,
+      43.9
+    ],
+    [
+      "Liked / related to TV ad",
+      14,
+      34.1
+    ],
+    [
+      "Attractive packaging",
+      9,
+      22.0
+    ],
+    [
+      "Recommended by friends / family",
+      7,
+      17.1
+    ]
+  ],
+  "trial_barriers": [
+    [
+      "Already satisfied with current facial wash",
+      122,
+      73.9
+    ],
+    [
+      "Not convinced the brightening claim is real",
+      25,
+      15.2
+    ],
+    [
+      "Not recommended by friends / family",
+      20,
+      12.1
+    ],
+    [
+      "Did not like / relate to TV ad",
+      19,
+      11.5
+    ],
+    [
+      "Difficult to find in store",
+      13,
+      7.9
+    ],
+    [
+      "Did not like / relate to TikTok content",
+      11,
+      6.7
+    ]
+  ],
+  "attr_ratings": {
+    "Suitable for daily use": {
+      "t1_pct": 95.1,
+      "avg": 4.95
+    },
+    "Rinses off cleanly": {
+      "t1_pct": 85.4,
+      "avg": 4.83
+    },
+    "Controls oil throughout the day": {
+      "t1_pct": 90.2,
+      "avg": 4.9
+    },
+    "Deep cleansing feel": {
+      "t1_pct": 85.4,
+      "avg": 4.83
+    },
+    "Refreshing feel during wash": {
+      "t1_pct": 85.4,
+      "avg": 4.85
+    },
+    "Gentle / non-irritating on skin": {
+      "t1_pct": 75.6,
+      "avg": 4.68
+    },
+    "Easy to lather": {
+      "t1_pct": 82.9,
+      "avg": 4.83
+    },
+    "Attractive packaging": {
+      "t1_pct": 80.5,
+      "avg": 4.71
+    },
+    "Pleasant scent": {
+      "t1_pct": 70.7,
+      "avg": 4.56
+    },
+    "Leaves skin feeling soft": {
+      "t1_pct": 63.4,
+      "avg": 4.37
+    },
+    "Skin looks brighter after wash": {
+      "t1_pct": 48.8,
+      "avg": 4.0
+    },
+    "Reduces appearance of dark spots": {
+      "t1_pct": 39.0,
+      "avg": 3.46
+    },
+    "Skin feels hydrated (not tight)": {
+      "t1_pct": 41.5,
+      "avg": 3.61
+    },
+    "Long-lasting matte finish": {
+      "t1_pct": 61.0,
+      "avg": 4.17
+    },
+    "Suitable for sensitive skin": {
+      "t1_pct": 75.6,
+      "avg": 4.61
+    },
+    "Visibly improved skin texture over time": {
+      "t1_pct": 43.9,
+      "avg": 3.68
+    }
+  },
+  "benefit_perception": {
+    "pre": {
+      "Controls oil / prevents breakouts": 77.6,
+      "Deep cleansing": 44.2,
+      "Brightens skin tone": 7.9,
+      "Keeps skin hydrated": 7.3,
+      "Gentle on skin": 6.7,
+      "Reduces dark spots": 3.6
+    },
+    "post": {
+      "Keeps skin hydrated": 51.2,
+      "Controls oil / prevents breakouts": 46.3,
+      "Brightens skin tone": 41.5,
+      "Deep cleansing": 22.0,
+      "Reduces dark spots": 17.1
+    }
+  },
+  "oar_distribution": {
+    "5": 58.5,
+    "4": 24.4,
+    "3": 12.2,
+    "2": 2.4,
+    "1": 2.4
+  },
+  "superiority": {
+    "Better than BUMO": 75.6,
+    "Same as BUMO": 24.4
+  },
+  "improvements": [
+    [
+      "Improve moisturising effect \u2014 skin feels dry after use",
+      31,
+      75.6
+    ],
+    [
+      "Strengthen brightening result \u2014 visible change takes too long",
+      9,
+      22.0
+    ],
+    [
+      "Add more active skin ingredients",
+      8,
+      19.5
+    ],
+    [
+      "Offer more promotions / discounts",
+      7,
+      17.1
+    ],
+    [
+      "Improve the scent",
+      4,
+      9.8
+    ],
+    [
+      "Make product easier to find in stores",
+      1,
+      2.4
+    ]
+  ],
+  "repeat_intent": {
+    "Probably would not": 9.8,
+    "Probably would buy again": 29.3,
+    "Might or might not": 17.1,
+    "Definitely would buy again": 39.0,
+    "Definitely would not": 4.9
+  },
+  "regional": {
+    "Luzon": {
+      "n": 120,
+      "aware_pct": 75.0,
+      "trial_pct": 21.1
+    },
+    "Visayas": {
+      "n": 95,
+      "aware_pct": 56.8,
+      "trial_pct": 25.9
+    },
+    "Mindanao": {
+      "n": 91,
+      "aware_pct": 68.1,
+      "trial_pct": 12.9
+    }
+  },
+  "regional_bumo": {
+    "Luzon": {
+      "Functional / Anti-acne": {
+        "n": 26,
+        "aware_pct": 80.8,
+        "trial_pct": 19.0
+      },
+      "Brightening / Whitening": {
+        "n": 40,
+        "aware_pct": 87.5,
+        "trial_pct": 34.3
+      },
+      "Anti-aging / Moisture": {
+        "n": 23,
+        "aware_pct": 43.5,
+        "trial_pct": 10.0
+      },
+      "Multi-benefit / Other": {
+        "n": 31,
+        "aware_pct": 77.4,
+        "trial_pct": 8.3
+      }
+    },
+    "Visayas": {
+      "Functional / Anti-acne": {
+        "n": 20,
+        "aware_pct": 60.0,
+        "trial_pct": 33.3
+      },
+      "Brightening / Whitening": {
+        "n": 25,
+        "aware_pct": 68.0,
+        "trial_pct": 47.1
+      },
+      "Anti-aging / Moisture": {
+        "n": 22,
+        "aware_pct": 40.9,
+        "trial_pct": 0.0
+      },
+      "Multi-benefit / Other": {
+        "n": 28,
+        "aware_pct": 57.1,
+        "trial_pct": 12.5
+      }
+    },
+    "Mindanao": {
+      "Functional / Anti-acne": {
+        "n": 18,
+        "aware_pct": 83.3,
+        "trial_pct": 20.0
+      },
+      "Brightening / Whitening": {
+        "n": 30,
+        "aware_pct": 60.0,
+        "trial_pct": 27.8
+      },
+      "Anti-aging / Moisture": {
+        "n": 17,
+        "aware_pct": 76.5,
+        "trial_pct": 0.0
+      },
+      "Multi-benefit / Other": {
+        "n": 26,
+        "aware_pct": 61.5,
+        "trial_pct": 0.0
+      }
+    }
+  },
+  "regional_drivers": {
+    "Luzon": [
+      [
+        "Liked the product texture or scent",
+        12
+      ],
+      [
+        "Liked price for perceived benefit",
+        8
+      ],
+      [
+        "Product addresses my skin needs",
+        8
+      ],
+      [
+        "Liked / related to TV ad",
+        6
+      ]
+    ],
+    "Visayas": [
+      [
+        "Liked price for perceived benefit",
+        7
+      ],
+      [
+        "Liked the product texture or scent",
+        7
+      ],
+      [
+        "Attractive packaging",
+        6
+      ],
+      [
+        "Product addresses my skin needs",
+        5
+      ]
+    ],
+    "Mindanao": [
+      [
+        "Product addresses my skin needs",
+        5
+      ],
+      [
+        "Liked / related to TV ad",
+        3
+      ],
+      [
+        "Recommended by friends / family",
+        3
+      ],
+      [
+        "Liked price for perceived benefit",
+        3
+      ]
+    ]
+  },
+  "regional_barriers": {
+    "Luzon": [
+      [
+        "Already satisfied with current facial wash",
+        53
+      ],
+      [
+        "Not convinced the brightening claim is real",
+        12
+      ],
+      [
+        "Did not like / relate to TV ad",
+        8
+      ],
+      [
+        "Not recommended by friends / family",
+        7
+      ]
+    ],
+    "Visayas": [
+      [
+        "Already satisfied with current facial wash",
+        29
+      ],
+      [
+        "Not convinced the brightening claim is real",
+        7
+      ],
+      [
+        "Did not like / relate to TV ad",
+        5
+      ],
+      [
+        "Not recommended by friends / family",
+        5
+      ]
+    ],
+    "Mindanao": [
+      [
+        "Already satisfied with current facial wash",
+        40
+      ],
+      [
+        "Not recommended by friends / family",
+        8
+      ],
+      [
+        "Not convinced the brightening claim is real",
+        6
+      ],
+      [
+        "Did not like / relate to TV ad",
+        6
+      ]
+    ]
+  },
+  "pack_sizes": [
+    [
+      "100ml",
+      18
+    ],
+    [
+      "50ml travel",
+      7
+    ],
+    [
+      "100ml twin-pack",
+      7
+    ],
+    [
+      "150ml",
+      5
+    ],
+    [
+      "200ml",
+      4
+    ]
+  ]
+}
